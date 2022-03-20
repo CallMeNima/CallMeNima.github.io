@@ -1,0 +1,44 @@
+body {
+    background-color: #F0F0F0;
+}
+
+.background {
+    height: 600px;
+    width: 1080px;
+    margin-left: 185px;
+    margin-top: 75px;
+}
+
+div {
+    font-family: 'Saira Condensed', sans-serif;
+}
+
+input {
+    border: 2px solid black;
+    width: 250px;
+    border-radius: 100px;
+    text-align: center;
+    height: 30px;
+}
+
+span {
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    width: 170px;
+    height: 40px;
+    border-radius: 100px;
+    margin-left: 20px;
+    background-color: #3E497A;
+    color: white;
+    border-color: #3E497A;
+}
+
+hr {
+    max-width: 300px;
+}

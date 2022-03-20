@@ -1,0 +1,37 @@
+body {
+    background: url(pexels-dominika-roseclay-1036841.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    color: black;
+    font-family: 'Saira Condensed', sans-serif;
+    margin-left: 680px;
+    margin-top: 200px;
+}
+
+span {
+    font-size: 1.3em;
+    font-weight: bolder;
+}
+
+.btn-outline-dark {
+    margin-top: 70px;
+    margin-left: 680px;
+    width: 200px;
+    border-radius: 100px;
+    height: 50px;
+    font-family: 'Saira Condensed', sans-serif;
+}
+
+.btn-outline-success {
+    margin-left: 1260px;
+    margin-top: 30px;
+    width: 110px;
+    border-radius: 100px;
+    color: black;
+    border-color: black;
+}
